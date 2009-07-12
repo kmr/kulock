@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="components">
+<item>kuler_client,net.necomimi.android.kulock.kuler.KulerClient,net.necomimi.android.kulock.kuler.KulerClientImpl,stateless</item>
+<item>kuler_picker,net.necomimi.android.kulock.kuler.KulerPicker,net.necomimi.android.kulock.kuler.KulerPickerImpl,stateless</item>
+</string-array>
+</resources>

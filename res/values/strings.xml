@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">kulock</string>
+<string name="api_key">your kuler api key</string>
+</resources>
